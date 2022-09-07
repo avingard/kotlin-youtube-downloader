@@ -10,4 +10,7 @@ This project is only for **educational purposes**. I urge not to use this projec
 
 
 
-![showcase](https://user-images.githubusercontent.com/112913895/188932712-8a9037eb-9879-481d-9f23-6c0285e6e770.gif)
+![output](https://user-images.githubusercontent.com/112913895/188948830-3ee691f7-4d7a-44b6-a5d9-b3b694fdda44.gif)
+
+
+
