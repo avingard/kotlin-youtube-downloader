@@ -9,4 +9,5 @@ This project is only for **educational purposes**. I urge not to use this projec
 
 
 
-![showcase_AdobeExpress](https://user-images.githubusercontent.com/112913895/188932321-27cac9ee-2b5f-44de-8539-736dd949f4ec.gif)
+
+![showcase](https://user-images.githubusercontent.com/112913895/188932712-8a9037eb-9879-481d-9f23-6c0285e6e770.gif)
