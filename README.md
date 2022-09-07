@@ -1,4 +1,4 @@
-# kotlin-youtube-video-downloader
+# kotlin-youtube-downloader
 A simple compose android application for downloading youtube videos.
 
 **WARNING**: Youtube API does not support video download. In fact, it is prohibited, see [Terms of Service - II. Prohibitions](https://developers.google.com/youtube/terms/api-services-terms-of-service).
